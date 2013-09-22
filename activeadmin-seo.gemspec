@@ -18,5 +18,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency "activeadmin", "~> 0.6.0"
   s.add_dependency 'activeadmin-dragonfly'
-  s.add_dependency "friendly_id", "~> 5.0.0"
+  s.add_dependency "friendly_id", "~> 5.0.0.rc1"
 end
